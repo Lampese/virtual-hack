@@ -1,0 +1,22 @@
+{
+  "name": "virtual-hack",
+  "version": "1.0.0",
+  "description": "virtual-hack",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lampese/virtual-hack.git"
+  },
+  "author": "Lampese",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lampese/virtual-hack/issues"
+  },
+  "homepage": "https://github.com/Lampese/virtual-hack#readme"
+}
